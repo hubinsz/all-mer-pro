@@ -8,6 +8,7 @@ public class HelloMoney {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("hello, hubin!");
+		System.out.println("hello, hubin! 2 times");
 	}
 
 }
