@@ -9,6 +9,7 @@ public class HelloMoney {
 		// TODO Auto-generated method stub
 		System.out.println("hello, hubin!");
 		System.out.println("hello, hubin! 2 times");
+		System.out.println("hello, hubin! 3 times");
 	}
 
 }
